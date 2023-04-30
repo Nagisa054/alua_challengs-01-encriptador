@@ -1,0 +1,122 @@
+/* estilos generales */
+*{
+	margin: 0;
+	padding: 0;
+
+	font-family: Inter;
+	color: aliceblue;
+}
+body{
+	width: 1920px;
+	height: 100%;
+
+	margin: 0;
+	
+	background-color: rgb(44, 82,102);
+	background-image: url(../img/bg2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	width: auto;
+	height: 1080px;
+	
+	max-width: 1920px;
+	max-height: 1080px;
+	
+	margin: auto;
+}
+header{
+	width: 100%;
+	height: auto;
+	
+	position: sticky;
+	top: -50px;
+	left: auto;
+	
+	margin-top: 60px;
+
+}
+#padre{
+	display: flex;
+	flex-wrap: wrap;
+	
+	/*gap: 20px;*/
+}
+.contenido{
+	margin: 10% auto;
+	font-size: 20px;
+	
+}
+.contenido textarea{
+	width: 619px;
+	height: 670px;
+	padding: .5rem;
+
+	background: rgba(0, 0, 0, 0.6);
+	border: 2px solid #3ACFB8;
+
+	font-size: 20px;
+
+	resize: none;
+	outline: none;
+}
+.contenido textarea::placeholder {/*centrar pleaceholder*/
+	text-align: center;
+  }
+.contenido button{
+	width: 40%;
+	height: 4rem;
+
+	font-size: 20px;
+
+	margin: 1rem;
+}
+#btnEncriptar{
+	background: rgba(0, 0, 0, .8);
+	border: 3px solid #3ACFB8;
+}
+#btnDesencriptar{
+	background: rgba(29, 163, 143, 0.6);
+	border: 3px solid #000000;
+
+	color: #000000;
+}
+#btnCopiar{
+	background: rgba(0, 0, 0, .8);
+	border: 3px solid #3ACFB8;
+
+	width: 29rem;
+}
+/*FOOTER*/
+footer{
+	display: flex;
+
+	font-size: 20px;
+}
+footer img{
+	width: 23px;
+	height: 20px;
+}
+
+/* estilos del scrollbar */
+body::-webkit-scrollbar{
+	width: .5rem;
+	background: rgb(44, 82,102);
+}
+body::-webkit-scrollbar-thumb{
+	margin:1px;
+	background: rgba(255, 255, 255, 0.6);
+}
+textarea::-webkit-scrollbar{
+	width: .7rem;
+	background: rgb(44, 82,102);
+}
+textarea::-webkit-scrollbar-thumb{
+	width: .7rem;
+	background: rgba(255, 255, 255, 0.6);
+}
+
+/*por: JUAN PABLO ROJAS / Nagisa054*/
+
+
+
