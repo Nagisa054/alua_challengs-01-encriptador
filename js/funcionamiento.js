@@ -5,7 +5,6 @@ const btnEncriptar = document.getElementById('btnEncriptar');
 const btnDesencriptar = document.getElementById('btnDesencriptar');
 const btnCopiar = document.getElementById('btnCopiar');
 var mensaje = input.value;//es el texto de entrada
-//var mensajeEncriptado = "";//es el texto de salida
 var valido = true;
 
 /*FUNCIONES*/
