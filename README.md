@@ -10,7 +10,9 @@
 
 Esta es una aplicación web que se encarga de codificar  y desconfiar un texto. Fue creada con las tegenarias de HTML5, CSS3 y JS.
 
+
 ##🔏Sitema encriptación🔏
+
 
 | 🔑LLAVE | 🔒CLAVE |
 | ------------ | ------------ |
@@ -30,6 +32,7 @@ Siguiendo estas normas un ejemplo sería:
 | 🔒Descodificar🔑 | gaitober | gato |
 
 ## 📜Requisitos📜
+
 **1**. Debe funcionar solo con letras minúsculas.
 
 **2**. No deben ser utilizados letras con acentos ni caracteres especiales.
