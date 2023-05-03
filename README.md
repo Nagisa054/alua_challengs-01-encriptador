@@ -36,6 +36,6 @@ Siguiendo estas normas un ejemplo sería:
 4. La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
 5. El resultado debe ser mostrado en la pantalla.
 
-------------
+#
 
 <center><img src="https://raw.githubusercontent.com/Nagisa054/alua_challengs-01-encriptador/main/img/one.png" width ="250px"></center>
