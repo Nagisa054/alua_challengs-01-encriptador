@@ -30,11 +30,11 @@ Siguiendo estas normas un ejemplo sería:
 | 🔒Descodificar🔑 | gaitober | gato |
 
 ## 📜Requisitos📜
-1. Debe funcionar solo con letras minúsculas
-2. No deben ser utilizados letras con acentos ni caracteres especiales
-3. Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
-4. La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
-5. El resultado debe ser mostrado en la pantalla.
+**1**. Debe funcionar solo con letras minúsculas
+**2**. No deben ser utilizados letras con acentos ni caracteres especiales
+**3**. Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
+**4**. La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
+**5**. El resultado debe ser mostrado en la pantalla.
 
 #
 
