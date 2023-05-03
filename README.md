@@ -10,7 +10,7 @@
 
 Esta es una aplicación web que se encarga de codificar  y desconfiar un texto. Fue creada con las tegenarias de HTML5, CSS3 y JS.
 
-##🔏Sitema encriptación🔏
+## 🔏Sitema encriptación🔏
 
 
 | 🔑LLAVE | 🔒CLAVE |
