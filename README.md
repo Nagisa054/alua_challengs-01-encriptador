@@ -19,6 +19,8 @@ Esta es una aplicación web que se encarga de codificar  y desconfiar un texto. 
 |  i | imes  |
 |  o | ober  |
 |  u | ufat  |
+
+
 Esto debe ser aplicado de manera inversa al momento de desencriptar.
 Siguiendo estas normas un ejemplo sería:
 
