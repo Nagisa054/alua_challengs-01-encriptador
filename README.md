@@ -28,7 +28,7 @@ Siguiendo estas normas un ejemplo sería:
 | CASO | INPUT | OUTPUT |
 | ------------ | ------------ | ------------ |
 | 🔑Codificar🔒 | gato | gaitober |
-| 🔒Descodificar🔑 | gaitober | gato |
+| 🔒Decodificar🔑 | gaitober | gato |
 
 ## 📜Requisitos📜
 
