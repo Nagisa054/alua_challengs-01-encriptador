@@ -62,8 +62,8 @@ function desencriptar(){
 	}
 }
 function copiar(){
-	console.log("funcion copiar conectada");
-	navigator.clipboard.writeText(output.value);
+    output.select();
+    document.execCommand("copy");
 	alert("TEXTO COPIADO");
 }
 /*LLAMADO DE FUNCIONES*/
